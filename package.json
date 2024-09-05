@@ -16,7 +16,6 @@
     "wechartreader"
   ],
   "author": "GitHub",
-  "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^32.0.1",
     "electron-builder": "^25.0.5"
